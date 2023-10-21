@@ -1,0 +1,11 @@
+Model Information:
+* title:	h12
+* source:	https://sketchfab.com/3d-models/h12-dd8df6b6d0fa4dce8b0ad58c5e6ef907
+* author:	andrettia (https://sketchfab.com/andrettia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "h12" (https://sketchfab.com/3d-models/h12-dd8df6b6d0fa4dce8b0ad58c5e6ef907) by andrettia (https://sketchfab.com/andrettia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
